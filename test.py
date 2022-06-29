@@ -1,5 +1,6 @@
 import pickle
 from demo import square, sub1
+from demo.sub1 import cube
 
 print(square(5))
 print(square(10))
